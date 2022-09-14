@@ -5,5 +5,5 @@ Cryptography and Network Security Lab
 
 | S.No  | Title             |
 | ----- | ----------------- |
-|      1| Ceasar Cipher     |
-|      2| Playfair Cipher   |
+|   1(i)| Ceasar Cipher     |
+|  1(ii)| Playfair Cipher   |
